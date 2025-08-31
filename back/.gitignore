@@ -1,0 +1,18 @@
+﻿# Dossiers de build
+/bin/
+/obj/
+
+# Fichiers utilisateur
+*.user
+*.suo
+
+# Fichiers de cache et temporaires
+*.cache
+*.tmp
+
+# Fichiers de logs et de configuration locale
+*.log
+*.vs/
+
+# Fichiers de dépendances (NuGet)
+/packages/
